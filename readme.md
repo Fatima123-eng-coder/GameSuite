@@ -37,10 +37,6 @@ GameSuite is a 2-in-1 JavaFX game application that includes:
 - Sound effects for better UX
 - Competitive AI logic in Tic Tac Toe
 
----
-
-## 📸 Screenshots
-(Add screenshots here)
 
 ---
 
